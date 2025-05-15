@@ -1067,6 +1067,8 @@ const EDKII_CRYPTO_PROTOCOL  mEdkiiCrypto = {
  #endif
  #if _PCD_VALUE_PcdCryptoServicePkcs7Encrypt
   Pkcs7Encrypt,
+ #if _PCD_VALUE_PcdCryptoServiceX509CompareDateTime
+  X509CompareDateTime,
  #else
   NULL,
  #endif
