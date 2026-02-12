@@ -163,6 +163,7 @@
   gEfiCryptoPkgTokenSpaceGuid.PcdCryptoServiceX509GetExtensionData      | TRUE
   gEfiCryptoPkgTokenSpaceGuid.PcdCryptoServiceX509GetValidity           | TRUE
   gEfiCryptoPkgTokenSpaceGuid.PcdCryptoServiceX509FormatDateTime        | TRUE
+  gEfiCryptoPkgTokenSpaceGuid.PcdCryptoServiceX509CompareDateTime       | TRUE
   gEfiCryptoPkgTokenSpaceGuid.PcdCryptoServiceX509GetKeyUsage           | TRUE
   gEfiCryptoPkgTokenSpaceGuid.PcdCryptoServiceX509GetExtendedKeyUsage   | TRUE
   gEfiCryptoPkgTokenSpaceGuid.PcdCryptoServiceX509VerifyCertChain       | TRUE

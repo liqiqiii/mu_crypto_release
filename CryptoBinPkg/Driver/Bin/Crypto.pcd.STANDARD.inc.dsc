@@ -135,5 +135,6 @@
   gEfiCryptoPkgTokenSpaceGuid.PcdCryptoServiceEcFree                    | TRUE
   gEfiCryptoPkgTokenSpaceGuid.PcdCryptoServiceEcGetPublicKeyFromX509    | TRUE
   gEfiCryptoPkgTokenSpaceGuid.PcdCryptoServiceEcDsaVerify               | TRUE
+  gEfiCryptoPkgTokenSpaceGuid.PcdCryptoServiceX509CompareDateTime       | TRUE
 # AUTOGEN ENDS
 # ****************************************************************************
